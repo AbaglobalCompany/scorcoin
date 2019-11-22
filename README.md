@@ -3,7 +3,7 @@ Scorcoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/scorcoin-project/scorcoin.svg?branch=master)](https://travis-ci.org/scorcoin-project/scorcoin)
 
-https://scorcoin.org
+http://www.scoall.com/
 
 What is Scorcoin?
 ----------------
